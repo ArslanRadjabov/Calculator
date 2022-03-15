@@ -19,7 +19,8 @@ body {
   margin: 0;
   overflow-x: hidden;
   font-family: "Arial", sans-serif;
-  background-color: #fff;
+  background: rgb(46,193,53);
+  background: linear-gradient(90deg, rgba(46,193,53,1) 56%, rgba(0,212,255,1) 100%);  
 }
 
 img {
